@@ -1,0 +1,141 @@
+# THcoin Whitepaper v1.0
+
+## Abstract
+
+THcoin is an experimental digital asset designed as a long-term store of value. It is created in response to the structural risks of inflation, monetary expansion, and centralized control in modern financial systems. THcoin is not a currency, not an investment product, and does not promise any form of return.
+
+---
+
+## 1. Introduction
+
+Inflation gradually erodes purchasing power over time. For many individuals, holding value in traditional forms such as cash exposes savings to long-term decline. While various assets exist as hedges, access, transparency, and trust remain challenges.
+
+THcoin proposes a digital alternative focused purely on scarcity, transparency, and long-term survivability.
+
+---
+
+## 2. Design Philosophy
+
+THcoin is built on five non-negotiable principles:
+
+1. Fixed supply forever
+2. No central owner or controller
+3. No promise of profit or yield
+4. System survivability without founders
+5. Transparency through open verification
+
+These principles are intentionally restrictive to prevent future manipulation.
+
+---
+
+## 3. What THcoin Is (and Is Not)
+
+### THcoin Is:
+
+* A digital asset
+* A store-of-value experiment
+* A permissionless, ownerless system
+
+### THcoin Is Not:
+
+* A currency
+* An investment
+* A savings product
+* A payment system
+
+---
+
+## 4. Token Specification
+
+* Name: THcoin
+* Symbol: THC
+* Network: Ethereum Layer 2
+* Standard: ERC-20
+* Total Supply: 21,000,000 THC
+
+The total supply is minted once at deployment and cannot be increased.
+
+---
+
+## 5. Token Distribution
+
+| Allocation              | Percentage | Conditions                 |
+| ----------------------- | ---------- | -------------------------- |
+| Community (Fair Launch) | 60%        | Distribution + open market |
+| DAO Treasury            | 20%        | Multi-signature controlled |
+| Long-term Reserve       | 10%        | Locked for 10 years        |
+| Founder                 | 10%        | Locked for 10 years        |
+
+No presale or fundraising is conducted.
+
+---
+
+## 6. Supply Immutability
+
+THcoin has no minting, burning, pausing, or upgrade mechanisms. The smart contract is deployed once and remains immutable.
+
+This ensures monetary predictability and prevents discretionary changes.
+
+---
+
+## 7. Governance Model
+
+THcoin governance is conducted via a decentralized autonomous organization (DAO). Governance decisions are limited to:
+
+* Ecosystem tools
+* Infrastructure support
+* Treasury usage
+
+Governance cannot modify core monetary rules.
+
+---
+
+## 8. Founder Exit Strategy
+
+The founder holds no special privileges. Founder tokens are time-locked for 10 years. After deployment and initial communication, the founder withdraws from operational control.
+
+The system must function independently of any individual.
+
+---
+
+## 9. Risk Disclosure
+
+THcoin carries risks, including but not limited to:
+
+* Market volatility
+* Regulatory uncertainty
+* Technological risks
+
+Participants must evaluate these risks independently.
+
+---
+
+## 10. Conclusion
+
+THcoin does not attempt to promise growth or adoption. Its value proposition is simplicity: fixed supply, no control, and time.
+
+If THcoin survives, it is because participants find value in its design—not because of promotion or guarantees.
+
+---
+
+THcoin is an experiment. Time is the final judge.
+
+---
+
+## Final Statement
+
+THcoin was created with a single intention: to exist.
+
+There is no roadmap beyond its fixed rules.
+There is no promise of profit, adoption, or success.
+There is no authority to guide, manage, or rescue it.
+
+After publication of this document and deployment of the protocol, the creator withdraws from all roles.
+No future statements, endorsements, or explanations will be provided.
+
+THcoin will persist or disappear based solely on voluntary use.
+
+If it survives, it survives honestly.
+If it fails, it fails honestly.
+
+Time—not people—is the final arbiter.
